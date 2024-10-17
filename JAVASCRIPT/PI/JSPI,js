@@ -1,0 +1,61 @@
+// // let mensaje = "hola mundo";
+
+// //     console.log(mensaje);
+
+// //     mensaje = "chao mundo"
+// //     console.log(mensaje); 
+
+// //     const PI = 3-1415
+// //     comsole-log(PI)
+
+//     let cantidad = 43
+//     let texto = 'texto de prueba'
+//     let gameOver = false
+//     let variableindefinida
+//     console.log(cantidad)
+//     console.log(variableindefinida + gameOver)
+// //listas
+// let lista = [9,8,7,6,5,4,3,2]
+// console.log (lista[2])
+// // objetos
+// let persona = {
+//     Nombre: "Alan",
+//     Apellidos: "Villamizar Bermudez",
+//     Edad: "44 años"
+// }
+// console.log(persona)
+// // funciones
+// function saludar(){
+//     console.log("Hola Grupo")
+// }
+// saludar()
+// //operaciones matematicas
+// let resultado = 16+2
+// console.log(resultado)
+// let valor = 50
+// valor +=50
+// console.log(valor)
+// x = 0
+// x*=1
+// console.log(x)
+
+let persona1 = "Jorge"
+let persona2 = "Jorge"
+let valor1 = "33"
+let valor2 = "45"
+console.log(persona1)
+console.log(persona2)
+
+console.log(persona1 == persona2)
+
+if(persona1 == persona2 && valor1 == valor2){
+
+    console.log("Los valores son iguales")
+    
+} else {
+    console.log("Los valores son diferente")
+}
+
+
+
+
